@@ -1,0 +1,7 @@
+﻿  Cart.cpp
+  Product.cpp
+  Program.cpp
+D:\facultate\An I\Semestrul II\OOP\Proiect POO\plamadeala-ana_chiriac-andrei\Program.cpp(26,22): warning C4305: '=': truncation from 'double' to 'float'
+D:\facultate\An I\Semestrul II\OOP\Proiect POO\plamadeala-ana_chiriac-andrei\Program.cpp(40,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  plamadeala-ana_chiriac-andrei.vcxproj -> D:\facultate\An I\Semestrul II\OOP\Proiect POO\plamadeala-ana_chiriac-andrei\x64\Debug\plamadeala-ana_chiriac-andrei.exe
